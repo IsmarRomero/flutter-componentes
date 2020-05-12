@@ -34,8 +34,8 @@ class CardPage extends StatelessWidget {
         children: <Widget>[
           ListTile(
             leading: Icon(Icons.photo_album, color: Colors.blue),
-            title: Text('Titulo Crack'),
-            subtitle: Text('Aqui estamos con la descripcion de la tarjeta android que no me parece tan interesante, para mi solo es un view'),
+            title: Text('Titulo'),
+            subtitle: Text('Aqui estamos con la descripcion de la tarjeta android '),
           ),
           Row(
             mainAxisAlignment: MainAxisAlignment.end,
